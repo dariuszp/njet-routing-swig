@@ -1,0 +1,26 @@
+{
+  "name": "njet-routing-swig",
+  "version": "0.0.0",
+  "description": "Swig extension for njet-routing",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dariuszp/njet-routing-swig.git"
+  },
+  "keywords": [
+    "swig",
+    "routing",
+    "njet",
+    "njet-routing",
+    "router"
+  ],
+  "author": "Półtorak Dariusz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dariuszp/njet-routing-swig/issues"
+  },
+  "homepage": "https://github.com/dariuszp/njet-routing-swig"
+}
