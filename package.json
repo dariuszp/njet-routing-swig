@@ -1,7 +1,7 @@
 {
     "name": "njet-routing-swig",
     "version": "1.0.0",
-    "description": "Swig extension for njet-routing",
+    "description": "Swig extension for njet-routing providing url generator from njet router",
     "main": "index.js",
     "scripts": {
         "test": "mocha --reporter spec"
