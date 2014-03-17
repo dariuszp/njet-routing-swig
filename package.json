@@ -1,6 +1,6 @@
 {
     "name": "njet-routing-swig",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Swig extension for njet-routing providing url generator from njet router",
     "main": "index.js",
     "scripts": {
