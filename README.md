@@ -1,4 +1,4 @@
-njet-routing-swig
+njet-routing-swig [![Build Status](https://travis-ci.org/dariuszp/njet-routing-swig.png?branch=master)](https://travis-ci.org/dariuszp/njet-routing-swig)
 =================
 
 Swig extension for njet-routing
